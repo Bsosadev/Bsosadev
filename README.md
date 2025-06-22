@@ -7,8 +7,8 @@ Web Developer 🤖🧑‍💻
 I am a Junior Front-End Developer with one year of experience in creating interactive and engaging user interfaces.
 
 * 🌍  I'm based in Peru 🇵🇪
-* 🖥️  See my portfolio at [bsosadev.com](http://bsosadev.site)
-* ✉️  You can contact me at [sosabrayam83@gmail.com](mailto:sosabrayam83@gmail.com)
+* 🖥️  See my portfolio at [bsosadev.com](http://bsosadev.com)
+* ✉️  You can contact me at [bsosadev9@gmail.com](mailto:bsosadev9@gmail.com)
 * 🧠  I'm learning React and Astro
 
 ### Skills
